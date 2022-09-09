@@ -25,11 +25,11 @@ learning how to use Git and set up Linux servers to put applications on the Inte
 
 ### Skills and Proficiency:
 
-- HTML5, CSS3
+- HTML5, CSS3, Bootstrap
 - JavaScript Basics
-- RubyonRails
+- Ruby on Rails
 - PostgreSQL, MySQL
-- Object Oriented Programming
+- Object Orientated Programming
 - Git, GitHub
 - VS Code, Sublime
 
@@ -37,5 +37,14 @@ learning how to use Git and set up Linux servers to put applications on the Inte
 
 ### Practical application projects:
 
-- App is a question and answer. (https://github.com/SergeyLyoshin/askme)
-- App creating bbq events. (https://github.com/SergeyLyoshin/BBQ)
+- App is a question and answer. [Github.io](https://github.com/SergeyLyoshin/askme) (completed)<br>
+- App creating bbq events. [Github.io](https://github.com/SergeyLyoshin/BBQ) (in progress)
+
+---
+
+### Languages:
+
+- English - Intermediate
+- Russian - Native
+- Ukrainian - Basic
+- Kazakh -Basic
