@@ -9,6 +9,7 @@
 **Phone:** +7 708 408 0797<br>
 **E-mail:** SLyoshin@icloud.com<br>
 **Telegram:** @Ackongagya<br>
+**Discord RS-school:** SergeyLyoshin(@SergeyLyoshin)<br>
 [LinkedIn](https://www.linkedin.com/in/sergey-lyoshin-57317754/)
 
 ---
